@@ -11,3 +11,9 @@
 name = 'Zagreus'
 print(f'Hello, {name}!')
 ```
+
+- [x] Escape from Tartarus
+- [x] Escape from Asphodel
+- [x] Escape from Elysium
+- [ ] Persuade Cerberus
+- [ ] Defeat Hades
